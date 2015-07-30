@@ -27,6 +27,8 @@ package com.example.user.ringermode;
         Button mode,ring,vibrate,silent;
         private AudioManager myAudioManager;
 
+        //comment
+
         @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
