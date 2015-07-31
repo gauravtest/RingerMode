@@ -5,22 +5,19 @@ package com.example.user.ringermode;
     import android.app.Activity;
     import android.content.Context;
     import android.media.AudioManager;
-    import android.media.MediaPlayer;
-    import android.media.MediaRecorder;
 
     import android.os.Bundle;
-    import android.os.Environment;
+
 
     import android.view.Menu;
     import android.view.MenuItem;
     import android.view.View;
-    import android.view.animation.Animation;
-    import android.view.animation.AnimationUtils;
+
 
     import android.widget.Button;
-    import android.widget.ImageView;
+
     import android.widget.Toast;
-    import java.io.IOException;
+
 
 
     public class MainActivity extends Activity {
@@ -31,6 +28,7 @@ package com.example.user.ringermode;
         //comment 2
         //comment 3
         //comment 4
+        //comment10
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
