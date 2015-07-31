@@ -28,6 +28,7 @@ package com.example.user.ringermode;
         private AudioManager myAudioManager;
 
         //comment
+        //comment 2
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
